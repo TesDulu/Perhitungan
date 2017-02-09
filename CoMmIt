@@ -1,7 +1,0 @@
-Commit
-
-1. git clone https://github.com/TesDulu/Perhitungan.git
-2. cd Perhitungan
-3. git add octocat.txt
-4. git commit -m "commit k5"
-5. git push origin master
